@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Redux](https://redux.js.org/)
 - [React Router](https://reactrouter.com/)
 
+Demonstração abaixo de um usuário de `teste` dentro do sistema.
 <p align="center">
    <img alt="Frontend" src=".github/digital_cliente01.gif" width="100%">
    <img alt="Frontend" src=".github/digital_cliente02.gif" width="100%">
