@@ -12,6 +12,11 @@
   <!-- <img alt="Frontend" src=".github/devradar.png" width="100%"> -->
 </p>
 
+## 💻 Projeto
+
+O objetivo dessa implementação, foi a necessidade do usuário em querer converter uma planilha grande e mal estruturada dos dados dos clientes para o sistema chamado iTag.
+A implementação foi realizada com êxito e agora o cliente não precisará mais utilizar a planilha e irá começar a utilizar o sistema.
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -24,10 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Redux](https://redux.js.org/)
 - [React Router](https://reactrouter.com/)
 
-## 💻 Projeto
-
-O objetivo dessa implementação, foi a necessidade do usuário em querer converter uma planilha grande e mal estruturada dos dados dos clientes para o sistema chamado iTag.
-A implementação foi realizada com êxito e agora o cliente não precisará mais utilizar a planilha e irá começar a utilizar o sistema.
 
 ## Build do projeto
 Esse projeto foi realizado a build na Digital Ocean https://www.digitalocean.com/
