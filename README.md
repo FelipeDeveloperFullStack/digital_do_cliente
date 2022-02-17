@@ -8,10 +8,6 @@
 
 <br>
 
-<p align="center">
-  <!-- <img alt="Frontend" src=".github/devradar.png" width="100%"> -->
-</p>
-
 ## 💻 Projeto
 
 O objetivo dessa implementação, foi a necessidade do usuário em querer converter uma planilha grande e mal estruturada dos dados dos clientes para o sistema chamado iTag.
@@ -29,6 +25,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Redux](https://redux.js.org/)
 - [React Router](https://reactrouter.com/)
 
+<p align="center">
+   <img alt="Frontend" src=".github/digital_cliente01.gif" width="100%">
+   <img alt="Frontend" src=".github/digital_cliente02.gif" width="100%">
+</p>
 
 ## Build do projeto
 Esse projeto foi realizado a build na Digital Ocean https://www.digitalocean.com/
