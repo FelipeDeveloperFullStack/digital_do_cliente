@@ -3,14 +3,14 @@
 </h1>
 
 <h4 align="center">
-  🚀 Implementação da Digital do Cliente, convertendo planilha mal estruturada para o sistema iTag.
+  🚀 Implementação da Digital do Cliente, convertendo planilha mal estruturada para um sistema interno de uma empresa.
 </h4>
 
 <br>
 
 ## 💻 Projeto
 
-O objetivo dessa implementação, foi a necessidade do usuário em querer converter uma planilha grande e mal estruturada dos dados dos clientes para o sistema chamado iTag.
+O objetivo dessa implementação, foi a necessidade do usuário em querer converter uma planilha grande e mal estruturada dos dados dos clientes para o sistema interno da empresa.
 A implementação foi realizada com êxito e agora o cliente não precisará mais utilizar a planilha e irá começar a utilizar o sistema.
 
 ## :rocket: Tecnologias
